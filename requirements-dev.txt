@@ -1,0 +1,4 @@
+-r examples/fastapi/requirements.txt
+pytest>=8,<10
+httpx2>=2,<3
+trio>=0.30,<1
